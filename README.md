@@ -112,7 +112,7 @@ habittrack/
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/seu-usuario/habittrack.git
+git clone https://github.com/AlexandreSampaioDutra/habittrack.git
 cd habittrack
 
 # 2. Instalar dependências
