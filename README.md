@@ -126,4 +126,4 @@ VITE_SUPABASE_ANON_KEY=sua-chave-anon
 npm run dev
 ```
 
-Acesse: http://localhost:5173
+Acesse: http://localhost:5173 ou https://projeto-inicial-habit-track-1xvy.vercel.app/
